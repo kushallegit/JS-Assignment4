@@ -1,0 +1,44 @@
+[
+    {
+        "brand": "Toyota",
+        "year": 2020,
+        "model": "SUV",
+        "owner": "Alex Chow",
+        "image": "https://images.unsplash.com/photo-1632137924251-fcea5ff46035?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "brand": "Nissan",
+        "year": 2021,
+        "model": "SUV",
+        "owner": "Sam Simpson",
+        "image": "https://images.unsplash.com/photo-1684839310553-f877b26935a9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "brand": "Honda",
+        "year": 2022,
+        "model": "SUV",
+        "owner": "Sally Grays",
+        "image": "https://images.unsplash.com/photo-1704246125646-cfdf0cb6d2b8?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "brand": "Ford",
+        "year": 2021,
+        "model": "Truck",
+        "owner": "David Lee",
+        "image": "https://images.unsplash.com/photo-1551830820-330a71b99659?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "brand": "Chevrolet",
+        "year": 2020,
+        "model": "Sedan",
+        "owner": "Emily Davis",
+        "image": "https://images.unsplash.com/photo-1625656801234-5ec5e4bb2c32?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "brand": "BMW",
+        "year": 2022,
+        "model": "Coupe",
+        "owner": "John Smith",
+        "image": "https://images.unsplash.com/photo-1698715316484-9fe6320606d6?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]
